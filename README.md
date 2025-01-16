@@ -2,7 +2,7 @@
 <h3 align="center">An AI Enthusiast and Aspiring Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Your Picture" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="![Image](https://github.com/user-attachments/assets/75942de0-86f7-4804-9f0a-3950307ee38c)" alt="Your Picture" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
 - 🔭 I’m currently working on **[Walk Pattern Detection and Layout Optimization](-)**, a project focused on leveraging AI to analyze and optimize spatial layouts based on human movement patterns.
